@@ -4,7 +4,7 @@ function SearchBar() {
 
     return (
 
-        <div className="SearcBar">
+        <div className="SearchBar">
 
             <input type="text" placeholder="" />
 
