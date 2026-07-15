@@ -1,4 +1,4 @@
-/* Header component for "Employee Dirctory" */
+/* Header Component for "Employee Dirctory" */
 
 function Header() {
 
