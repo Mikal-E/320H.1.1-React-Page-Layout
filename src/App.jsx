@@ -1,5 +1,6 @@
 import './App.css'
 import Header from "./components/Header"
+import HomePage from './components/HomePage'
 import SearchBar from './components/SearchBar'
 
 function App() {
@@ -8,8 +9,7 @@ function App() {
     
     <div className="App">
 
-    <Header />
-    <SearchBar />
+    <HomePage />
 
     </div>
 
