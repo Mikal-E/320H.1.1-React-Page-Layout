@@ -1,4 +1,6 @@
 import './App.css'
+import Header from "./components/Header"
+import SearchBar from './components/SearchBar'
 
 function App() {
   
@@ -6,7 +8,8 @@ function App() {
     
     <div className="App">
 
-    <h1>Hello World</h1>
+    <Header />
+    <SearchBar />
 
     </div>
 
